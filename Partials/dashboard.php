@@ -91,7 +91,7 @@ else{
                 <br>
                 <strong class="text-dark h5">Name:</strong>
                 <?php echo $data['username']; ?><br><br>
-                <strong class="text-dark h5">Mobile:</strong>
+                <strong class="text-dark h5">Aadhar Number:</strong>
                 <?php echo $data['mobile']; ?><br><br>
                 <strong class="text-dark h5">Status:</strong>
                 <?php echo $status; ?><br><br>

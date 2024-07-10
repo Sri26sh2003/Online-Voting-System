@@ -17,13 +17,13 @@
                     <input type="text" placeholder="Enter your username" required="required" name="username" class="form-control w-50 m-auto">
                 </div>
                 <div class="mb-3">
-                    <input type="text" placeholder="Enter your mobile number" required="required" name="mobile" class="form-control w-50 m-auto" maxLength=10 minLenght=10>
+                    <input type="text" placeholder="Enter your Aaddhar number" required="required" name="mobile" class="form-control w-50 m-auto" maxLength=10 minLenght=10>
                 </div>
                 <div class="mb-3">
-                    <input type="password" placeholder="Enter your password" required="required" name="password" class="form-control w-50 m-auto">
+                    <input type="password" placeholder="Enter your Voter ID or Group ID" required="required" name="password" class="form-control w-50 m-auto">
                 </div>
                 <div class="mb-3">
-                    <input type="password" placeholder="Confirm password" required="required" name="cpassword" class="form-control w-50 m-auto">
+                    <input type="password" placeholder="Confirm your Voter ID or Group ID" required="required" name="cpassword" class="form-control w-50 m-auto">
                 </div>
                 <div class="mb-3">
                     <input type="file"  name="photo" class="form-control w-50 m-auto">

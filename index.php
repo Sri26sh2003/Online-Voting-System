@@ -20,11 +20,11 @@
                     class="form-control w-50 m-auto">
                 </div>
                 <div class="mb-3">
-                    <input type="text" name="mobile" placeholder="Enter your mobile number" required="required"
+                    <input type="text" name="mobile" placeholder="Enter your Aaddhar number" required="required"
                     class="form-control w-50 m-auto" maxLength="10" minLength="10">
                 </div>
                 <div class="mb-3">
-                    <input type="password" name="password" placeholder="Enter your password" required="required"
+                    <input type="password" name="password" placeholder="Enter your Voter ID or Group ID" required="required"
                     class="form-control w-50 m-auto">
                 </div>
                 <div class="mb-3">
